@@ -1,4 +1,4 @@
-In this project we have tried to make a voice assistant named “VOICE SHOP” that
+In this project we have tried to make a voice assistant named “VoiShop” that
 leverages the Wit.ai platform which will work as your personal assistant as well as
 shopping assistant.
 PERSONAL ASSISTANT:
@@ -22,3 +22,6 @@ restricted to only amazon and not generalised for all the shopping sites.We can
 do a lot on the shopping sites but our project is restricted for some features only.
 We have used web automation using python to accomplish this task and
 integrated all this with wit.ai.
+
+Link to the video of orking product : 
+https://youtu.be/hc7T6M2_MD8
